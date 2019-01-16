@@ -1,1 +1,1 @@
-# info
+*Personal info and some open lectures*
